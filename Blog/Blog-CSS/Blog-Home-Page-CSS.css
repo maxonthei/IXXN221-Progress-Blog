@@ -1,0 +1,43 @@
+
+  
+
+h1 {
+    text-align: center;
+    background-color: lightblue;
+    border: 5px solid rgb(29, 51, 96);
+    border-radius: 10px;
+    padding: 25px;
+    margin-top: 50px;
+    margin-left: 340px;
+    margin-right: 340px;
+    margin-bottom: -5px;
+    
+}
+
+h2 {
+    text-align: center;
+    background-color: lightblue;
+    border: 5px solid rgb(29, 51, 96);
+    border-radius: 10px;
+    padding: 5px;
+    margin-left: 450px;
+    margin-right: 450px;
+    margin-top: 0px;
+    
+}
+
+main {
+    Background-color: white;
+}
+
+
+h3 {
+    text-align: center;
+    background-color: lightblue;
+    border: 3px solid rgb(29, 51, 96);
+    border-radius: 30px;
+    padding: 10px;
+    margin: 25px;
+    margin-left: 550px; 
+    margin-right: 550px;
+}

@@ -1,0 +1,46 @@
+h1 {
+    text-align: center;
+    background-color: lightblue;
+    border: 5px solid rgb(29, 51, 96);
+    border-radius: 10px;
+    padding: 25px;
+    margin: 50px;
+    margin-left: 370px;
+    margin-right: 370px;
+}
+
+h2 {
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 1140px; 
+    border: 5px solid rgb(29, 51, 96);
+    border-radius: 10px;
+    padding: 10px;
+        
+}
+
+body {
+    background: #E4F6F8;
+}
+
+
+img {
+    width:auto;
+    height: 500px;
+    background-color: lightblue;
+    padding: 10px;
+    border: 10px solid lightblue;
+    border-radius: 30px;
+    margin-left: 200px;
+    box-sizing: border-box;
+}
+p {
+    margin: 20px 200px;
+    background-color: white;
+    border: 5px solid rgb(29, 51, 96);
+    padding: 25px ;
+    
+}
+img:hover {
+    border: 10px solid rgb(29, 51, 96)
+}

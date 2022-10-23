@@ -1,0 +1,52 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: blue;
+    height: 100vh;
+    width: 100vw;
+    display: grid;
+    grid-template-columns: auto;
+    grid-template-rows: 20% auto 15%;
+    grid-template-areas: 
+        "Header"
+        "Main"
+        "Footer";
+}
+
+header{
+    background-color: #47286f;
+}
+
+main{
+    background-color: #643b9f;
+    display: grid;
+    grid-template-columns: 30%, auto, atuo;
+    grid-template-rows: 2;  
+}
+
+nav:nth-last-of-type(1) {
+    background-color: white;
+    width: 50vw;
+    height: 50vh;
+    margin-left: 50vw;
+}
+
+nav:nth-last-of-type(2) {
+    background-color: #ac94f4;
+    width: 50vw;
+    height: 50vh;
+    margin-left: 50vw;
+}
+footer{
+    background-color: #47286f;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+h4 {
+    text-align: center;
+    color: #47288f;
+}
